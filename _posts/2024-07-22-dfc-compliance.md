@@ -27,17 +27,23 @@ This has been traditionally a set of best practices and guidelines for cloud dep
 
 The portal provides an overview of all of the MCSB controls and the number of controls that have either passed or not. The controls cover not only Azure but also both Amazon Web Services & Google Cloud Platform as well as GitHub and Azure DevOps that are integrated into DevOps Security.
 
+![Microsoft Cloud Security Benchmark](../assets/mcsb.png)
+
 Diving into the compliance controls will reveal what resources are non-compliant, for example, the compliance control for privileged access reveals that there is a requirement for multiple owners on 1 subscription.
+
+
 
 Clicking on the control details link will provide some additional info associated with the control with the relevant compliance status in your subscription and links the MCSB control in Microsoft docs for further information.
 
-![Microsoft Cloud Security Benchmark](assets/mcsb.png)
+![Microsoft Cloud Security Benchmark](../assets/failed-resource.png)
 
 ---
 
 ## Remediation
 
 Getting to work remediating the fixes involves opening the affected non-compliant resource and following the remediation steps outlined in the resource compliance status.
+
+![Microsoft Cloud Security Benchmark](../assets/comp-status.png)
 
 ---
 
@@ -49,7 +55,15 @@ This is particularly useful for large Azure environments with multiple subscript
 
 Governance rules are created in the environment settings of the Defender for Cloud portal.
 
-The governance rules pane allows you to create governance rules based on subscription scope. Then you can add conditions to alert based on severity or based on specific recommendations in the MCSB controls. Setting owners and remediation timeframes enforces governance with tailored timeframes and email notifications.
+![Microsoft Cloud Security Benchmark](../assets/env-settings.png)
+
+The governance rules pane allows you to create governance rules based on subscription scope.
+
+![Microsoft Cloud Security Benchmark](../assets/gov-rules.png)
+
+Then you can add conditions to alert based on severity or based on specific recommendations in the MCSB controls. Setting owners and remediation timeframes enforces governance with tailored timeframes and email notifications.
+
+![Microsoft Cloud Security Benchmark](../assets/edit-gov-rule.png)
 
 ---
 
