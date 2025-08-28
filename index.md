@@ -10,7 +10,7 @@ Your source for thoughts, tutorials, and updates on all things Microsoft tech, d
 
 <!-- List your featured or latest posts here. Update with links as new posts are published. -->
 - [Creating Self-Hosted Azure DevOps Agents with Azure Container App Jobs and Managed Identity](./posts/2025-02-17-devops-containers.md)
-- [Microsoft Defender for Cloud Regulatory Compliance](./posts/dfc-compliance.md)
+- [Microsoft Defender for Cloud Regulatory Compliance](./posts/2024-07-22-dfc-compliance.md)
 - [DevOps Security with Microsoft Defender for Cloud. Investigate and Remediate](./posts/dfc-remediate.md)
 
 ---
@@ -32,7 +32,7 @@ Do you have feedback, questions, or just want to say hello? Contact me on the be
   GitHub
 </a>
 <a href="https://linkedin.com/in/craig4shaw">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="60" style="vertical-align:middle;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" style="vertical-align:middle;">
   LinkedIn
 </a>
 
