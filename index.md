@@ -11,7 +11,7 @@ Your source for thoughts, tutorials, and updates on all things Microsoft tech, d
 <!-- List your featured or latest posts here. Update with links as new posts are published. -->
 - [Creating Self-Hosted Azure DevOps Agents with Azure Container App Jobs and Managed Identity](./_posts/2025-02-17-devops-containers.md)
 - [Microsoft Defender for Cloud Regulatory Compliance](./_posts/2024-07-22-dfc-compliance.md)
-- [DevOps Security with Microsoft Defender for Cloud. Investigate and Remediate](./_posts/dfc-remediate.md)
+- [DevOps Security with Microsoft Defender for Cloud. Investigate and Remediate](./_posts/2024-02-28-defender-investigate.md)
 
 ---
 
@@ -27,7 +27,7 @@ I am a Microsoft MVP in Security and in my daily life work as a Cloud Architect 
 
 Do you have feedback, questions, or just want to say hello? Contact me on the below links:
 
-<a href="https://github.com/craig4shaw">
+<a href="https://github.com/craig4shaw83">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="60" style="vertical-align:middle;">
   GitHub
 </a>
