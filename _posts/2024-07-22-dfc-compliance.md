@@ -3,6 +3,8 @@ title: "Microsoft Defender for Cloud Regulatory Compliance"
 date: 2024-07-22
 ---
 
+*Author: Craig Forshaw*
+
 # Microsoft Defender for Cloud Regulatory Compliance
 
 The regulatory compliance feature in Defender for Cloud provides important guidance on how secure your cloud environment is and how to create governance rules to enforce compliance.

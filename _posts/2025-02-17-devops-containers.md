@@ -1,7 +1,9 @@
 ---
 title: "Creating Self-Hosted Azure DevOps Agents with Azure Container App Jobs and Managed Identity"
-date: 2025-08-15
+date: 2025-02-17
 ---
+
+*Author: Craig Forshaw*
 
 # Creating Self-Hosted Azure DevOps Agents with Azure Container App Jobs and Managed Identity
 

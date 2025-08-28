@@ -9,9 +9,9 @@ Your source for thoughts, tutorials, and updates on all things Microsoft tech, d
 ## 🚀 Latest Posts
 
 <!-- List your featured or latest posts here. Update with links as new posts are published. -->
-- [Creating Self-Hosted Azure DevOps Agents with Azure Container App Jobs and Managed Identity](./posts/2025-02-17-devops-containers.md)
-- [Microsoft Defender for Cloud Regulatory Compliance](./posts/2024-07-22-dfc-compliance.md)
-- [DevOps Security with Microsoft Defender for Cloud. Investigate and Remediate](./posts/dfc-remediate.md)
+- [Creating Self-Hosted Azure DevOps Agents with Azure Container App Jobs and Managed Identity](./_posts/2025-02-17-devops-containers.md)
+- [Microsoft Defender for Cloud Regulatory Compliance](./_posts/2024-07-22-dfc-compliance.md)
+- [DevOps Security with Microsoft Defender for Cloud. Investigate and Remediate](./_posts/dfc-remediate.md)
 
 ---
 
