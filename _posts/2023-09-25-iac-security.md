@@ -1,6 +1,17 @@
 ---
 title: "Securing Infrastructure as Code (IaC) with the Microsoft Technology Stack"
 date: 2023-09-25
+categories:
+  - Security
+  - DevOps
+  - Infrastructure
+tags:
+  - IaC
+  - Bicep
+  - Azure
+  - GitHub-Advanced-Security
+  - Defender-for-DevOps
+excerpt: "Explore how to implement secure Infrastructure as Code deployments using only Microsoft products and tools"
 ---
 
 # Securing infrastructure as code (IaC) with the Microsoft technology stack

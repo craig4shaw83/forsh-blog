@@ -1,6 +1,15 @@
 ---
 title: "DevOps Security with Microsoft Defender for Cloud. Investigate and Remediate"
 date: 2024-02-28
+categories:
+  - Security
+  - DevOps
+tags:
+  - Microsoft-Defender
+  - Azure
+  - DevOps-Security
+  - GitHub
+excerpt: "Learn how to remediate code scanning findings in your GitHub repositories with Microsoft Defender for Cloud"
 ---
 
 # DevOps Security with Microsoft Defender for Cloud. Investigate and Remediate

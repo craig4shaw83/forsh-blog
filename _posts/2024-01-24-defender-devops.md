@@ -1,6 +1,14 @@
 ---
 title: "DevOps Security with Microsoft Defender for Cloud"
 date: 2024-01-24
+categories:
+  - Security
+  - DevOps
+tags:
+  - Microsoft-Defender
+  - Azure
+  - DevOps-Security
+excerpt: "Explore the updated DevOps security offering in Microsoft Defender for Cloud"
 ---
 
 # DevOps Security with Microsoft Defender for Cloud

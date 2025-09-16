@@ -1,6 +1,16 @@
 ---
 title: "Creating Self-Hosted Azure DevOps Agents with Azure Container App Jobs and Managed Identity"
 date: 2025-02-17
+categories:
+  - DevOps
+  - Azure
+  - Containers
+tags:
+  - Azure-DevOps
+  - Container-Apps
+  - Managed-Identity
+  - Self-Hosted-Agents
+excerpt: "Learn how to create secure self-hosted Azure DevOps agents using Azure Container App Jobs with system-assigned managed identities"
 ---
 
 *Author: Craig Forshaw*
